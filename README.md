@@ -13,7 +13,7 @@
   <tr>
     <td>Nguyễn Bùi Minh Anh</td>
     <td>030236200004</td>
-    <td>Phần 1, Phần 4, Phần 5.1</td>
+    <td>Phần 1, Phần 4, Phần 6.1</td>
   </tr>
   <tr>
     <td>Nguyễn Thị Hồng Thu</td>
@@ -23,7 +23,7 @@
   <tr>
     <td>Trần Thị Khánh Linh</td>
     <td>030236200226</td>
-    <td>Phần 2, phần 5.3</td>
+    <td>Phần 2, Phần 5, Phần 6.3 </td>
   </tr>
 </table>
 
